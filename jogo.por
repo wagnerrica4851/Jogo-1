@@ -94,7 +94,7 @@ programa
 		  }
 	   }
 
-        // desenhar imagens dos adversarios
+        
 	   funcao desenharAdvs (){
 	   	g.desenhar_imagem(adv_x, adv_y, adv1)
 	      
@@ -111,7 +111,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2075; 
+ * @POSICAO-CURSOR = 2170; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
