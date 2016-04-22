@@ -88,7 +88,6 @@ programa
 		}
 	   }
 	   
-        // gravidade
        funcao gravidade()    {
 	     se(perS_y < 470) {   
 			perS_y+=10
@@ -112,7 +111,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2334; 
+ * @POSICAO-CURSOR = 2075; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
