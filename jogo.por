@@ -8,13 +8,13 @@ programa
 	inteiro cenario
 	// imagens do personagem 
 	inteiro perS  , persAT, persAT2, imagem = 0
-	// posoção do personagem 
+	// posoÃ§Ã£o do personagem 
 	inteiro perS_x=5, perS_y=470
-	// variavel da função de ataque
+	// variavel da funÃ§Ã£o de ataque
 	logico atacando = falso
 	// imagens dos adiversarios
 	inteiro adv1 
-	// posição dos adiversarios
+	// posiÃ§Ã£o dos adiversarios
      inteiro adv_x=800, adv_y=470
      
    
@@ -30,7 +30,7 @@ programa
 		 adv1    = g.carregar_imagem("imagens/adv1.png")
 		 			 
 
-            // lopp de funçoes 
+            // lopp de funÃ§oes 
 		  faca {	
 		  		 	
 			 desenhar()
@@ -106,10 +106,14 @@ programa
 }   
 
 
+teste wagnerrica
+
+
+
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 2170; 
  * @PONTOS-DE-PARADA = ;
